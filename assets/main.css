@@ -1,0 +1,28 @@
+html {
+	background: black;
+}
+
+body {
+	padding: none;
+	margin: none;
+	background: black;
+}
+
+.main-pic {
+	display: block;
+	text-align: center;
+}
+
+@media (max-width: 960px) {
+	.full-width {
+		width: 100% !important;
+	}
+}
+
+@media (max-width: 14400px) {
+		
+}
+
+.full-width {
+		width:960px
+}
